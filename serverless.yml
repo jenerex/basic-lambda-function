@@ -20,4 +20,4 @@ provider:
   region: us-east-1
 functions:
   hello:
-    handler: handler.hello
+    handler: handler.hellonew
